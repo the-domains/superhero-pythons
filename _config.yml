@@ -1,16 +1,16 @@
-typography_spectrum: 0.777507578022778
+layout_spectrum: 0.6643483759835362
+typography_spectrum: 0.8777225620578974
 color:
-  brandStrength: 0.45234502805396914
-  lightness: 0.7516187313012779
-  saturation: 0.7867327402345836
-  rhythmicContrast: 0.9109068873804063
+  brandStrength: 0.4855711213313043
+  lightness: 0.9146311061922461
+  saturation: 0.8597491509281099
+  rhythmicContrast: 0.3856530962511897
   brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
     - '#FFFFFF'
-    - '#F9E27C'
-    - '#23241F'
-    - '#80531D'
-    - '#CD973E'
-layout_spectrum: 0.7028733710758388
+    - '#FF9800'
 name: Superhero Pythons
 navigation:
   - name: Facebook
