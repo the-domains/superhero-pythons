@@ -12,5 +12,9 @@ color:
     - '#CD973E'
 layout_spectrum: 0.7028733710758388
 name: Superhero Pythons
+navigation:
+  - name: Facebook
+    url: 'https://www.facebook.com/SuperheroPythons'
+    type: external
 title: Superhero Pythons
 description: Snakes with superpowers
